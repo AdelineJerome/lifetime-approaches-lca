@@ -6,7 +6,7 @@ This repository contains supplementary information to the article from Jerome, A
 
 ## Requirements
 
-- `brightway2` ([link to install it](), the original calculations were carried out with `brightway2` version `2.4.5`)
+- `brightway2` ([link to install it](https://docs.brightway.dev/en/legacy/content/installation/installation.html)), the original calculations were carried out with `brightway2` version `2.4.5`)
 - `numpy`
 - `pandas`
 - `matplotlib`
